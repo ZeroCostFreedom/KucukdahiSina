@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>2. Küçük Dahi İbn Sina - Bölüm 2: İlk Öğretmenler</title>
+    <title>8. Küçük Dahi İbn Sina - Bölüm 8: Tıp ve Felsefe Arasındaki Bağ</title>
     <style>
         body {
             display: flex;
@@ -78,11 +78,11 @@
 </head>
 <body>
     <!-- Video title at the top center above the player -->
-    <div class="title">2. Küçük Dahi İbn Sina - Bölüm 2: İlk Öğretmenler</div>
+    <div class="title">8. Küçük Dahi İbn Sina - Bölüm 8: Tıp ve Felsefe Arasındaki Bağ</div>
 
     <!-- Custom Video Player using Google Drive link -->
     <div class="video-container">
-        <iframe src="https://drive.google.com/file/d/1-2VASLfWATVqziHEEd3vz-e7UPtJQH3d/preview" 
+        <iframe src="https://drive.google.com/file/d/1-I9e7kllUspsrLrNGRApCMUYysmthfrf/preview" 
                 frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
 
